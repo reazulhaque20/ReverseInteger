@@ -15,6 +15,8 @@ public class ReverseInteger {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Solution solution = new Solution();
+        System.out.println("Reverse Integer is: " + solution.reverse(123));
     }
     
 }
